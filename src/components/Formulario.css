@@ -1,0 +1,8 @@
+.formulario {
+    display: flex; /* Uso de flexbox */
+    justify-content: center; /* Centramos los elementos horizontalmente */
+    flex-direction: column; /* Colocamos los elementos en columna */
+    align-items: center; /* Centramos los elementos verticalmente */
+    gap: 1rem; /* Espacio entre elementos */
+}
+
